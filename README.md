@@ -29,7 +29,6 @@
 </p>
 
 
-- 🔭 I’m currently working on Python based Linear regression model for video game sales predictions
-- 🌱 I’m currently learning AP Calculus, AP Psychology
+- 🔭 I’m currently working on major applications and RPG Maker Plugins
+- 🌱 I’m currently learning CSS 143
 - 💬 Ask me about RPG Games!
-- ⚡ Fun fact: ...
