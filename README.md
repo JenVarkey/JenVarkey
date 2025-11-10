@@ -30,5 +30,5 @@
 
 
 - 🔭 I’m currently working on major applications and RPG Maker Plugins
-- 🌱 I’m currently learning CSS 143
+- 🌱 I’m currently learning CSS 342
 - 💬 Ask me about RPG Games!
